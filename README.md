@@ -9,6 +9,6 @@ Second assignment of NLU course about dependency grammar and spaCy library.
 * `spaCy`: 
      * run `pip install spacy`
      * run `python -m spacy download en_core_web_sm` 
-* Test and train set that will be found in the data repository 
+* Test and train set that will be found in the data repository conll2003 zipped folder
 
 The detailed report of each function is located in the notebook along with the code.
