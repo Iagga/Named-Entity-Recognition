@@ -1,2 +1,2 @@
 # Name-Entity-Recognition
-Second Assignment for NLU course
+Second Assignment for NLU course.
