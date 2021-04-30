@@ -1,5 +1,5 @@
 # NLU-Named-Entity-Recognition
-Second assignment of NLU course about dependency grammar and spaCy library.
+Second assignment of NLU course about named entity recognition of spacy.
 * Student name: Gaia Trebucchi
 * Student number: 224464
 
